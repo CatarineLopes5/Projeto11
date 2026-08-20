@@ -1,5 +1,5 @@
 <?php
     echo "Hello World";
-    echo "Atividade do GitHUb"
+    echo "Outro teste"
 
 ?>
