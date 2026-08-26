@@ -9,9 +9,11 @@
 <body>
 
     <div class=Container>
-        <div class="curriculo">
+        <div class="curriculoC">
             <a href="CurriculoCah.php"> Catarine </a>
         </div>
+        <div class="curriculoCR">
+            <a href="CurriculoCris.php">Cristiane</a>
     </div>
 </body>
 </html>
