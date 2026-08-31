@@ -15,7 +15,7 @@
 
     <br>
 
-    <a href="?exibircr"> Curriculo Cris </a>
+    <a href="CurriculoCris.php"> Curriculo Cris </a>
 
     <br>
 
