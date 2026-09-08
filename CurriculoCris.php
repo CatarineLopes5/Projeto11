@@ -5,7 +5,7 @@
     <title>Curriculo-Cristiane Carvalho</title>
 </head>
 <body>
-    </head
+    <header>
       <h1>Cristiane Carvalho</h1>
       <p><strong>Objetivo:</strong>Estágio Desenvolvimento de Sistema e Auxiliar Administrativo</p>
       <p>
