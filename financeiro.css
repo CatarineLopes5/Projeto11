@@ -1,0 +1,97 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+
+}
+
+body{
+    background-color: #f4f7f6;
+    color: #333;
+}
+
+header{
+    background-color: #007bff;
+    color: white;
+    text-align: center;
+    padding: 1.5rem;
+}
+.container{
+    max-width: 800px;
+    margin: 2rem auto;
+    padding: 0 1rem;
+}
+
+.resumo{
+    display: flex;
+    justify-content: space-between;
+    gap: 1rem;
+    margin-bottom: 2rem;
+}
+
+.card {
+    flex: 1;
+    background: white;
+    padding: 1.5rem;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    text-align: center;
+     
+
+
+}
+
+.card.entrada h2 { color: #28a745;}
+.card.saida h2 { color:#dc3545;}
+.card.total h2 { color: #007bff;}
+
+.formulario, .historico {
+    background: white;
+    padding: 1.5rem;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    margin-bottom: 2rem;
+}
+
+form {
+    display: flex;
+    gap: 0.5rem;
+    margin-top: 1rem;
+
+}
+
+input, select, button{
+    padding: 0.7rem;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+input, select  {
+    flex: 1;
+}
+
+button {
+    background-color: #28a745;
+    color: white;
+    border: none;
+    cursor: pointer;
+
+}
+
+button:hover {
+    background-color: #218838;
+
+}
+table {
+    width: 100%;
+    margin-top: 0.7rem;
+    border-collapse: collapse;
+}
+
+th, td{
+    padding: 0.7rem;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
