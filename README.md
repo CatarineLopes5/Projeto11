@@ -6,7 +6,7 @@ Esse sistema esta sendo desenvolvido com o intuito de ajudar o usuário a ter um
 
 <br>
 
-<h3>Autores</h3>
+<h3>Autoras</h3>
 
 [Catarine Lopes](https://github.com/CatarineLopes5) & [Cristiane Peixoto](https://github.com/cris4226)
 
